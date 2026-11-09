@@ -51,7 +51,7 @@ iPhone: [App Store](https://apps.apple.com/app/google-authenticator/id388497605)
 **Pas 4.** Deixem l'aplicació preparada per afegir-hi el nostre compte corporatiu.
 
 
-![Instal·lació de Google Authenticator](media/01.jpg)
+![Instal·lació de Google Authenticator](Img/01.jpg)
 
 
 Figura 1. Instal·lació de Google Authenticator.
@@ -78,7 +78,7 @@ Figura 1. Instal·lació de Google Authenticator.
 **Pas 5.** Busquem l'apartat «Inici de sessió a Google».
 
 
-![Seguretat del compte Google](media/02.jpg)
+![Seguretat del compte Google](Img/02.jpg)
 
 
 Figura 2. Configuració de seguretat del compte de Google.
@@ -102,7 +102,7 @@ Figura 2. Configuració de seguretat del compte de Google.
 **Pas 5.** Un cop activada la verificació en dos passos, seleccionem l'opció d'afegir o configurar una aplicació d'autenticació.
 
 
-![Verificació en dos passos](media/03.jpg)
+![Verificació en dos passos](Img/03.jpg)
 
 
 Figura 3. Activació de la verificació en dos passos.
@@ -135,7 +135,7 @@ Figura 3. Activació de la verificació en dos passos.
 És important introduir el codi abans que caduqui, ja que es renova periòdicament.
 
 
-![Vinculació mitjançant QR](media/04.jpg)
+![Vinculació mitjançant QR](Img/04.jpg)
 
 
 Figura 4. Vinculació del compte mitjançant el codi QR.
@@ -162,7 +162,7 @@ Un cop vinculat el compte, Google Authenticator començarà a generar codis temp
 Els codis canvien automàticament cada pocs segons i només són vàlids durant un període limitat.
 
 
-![Codis de sis dígits](media/05.jpg)
+![Codis de sis dígits](Img/05.jpg)
 
 
 Figura 5. Codis temporals generats per Google Authenticator.
@@ -193,7 +193,7 @@ Cada codi només es pot utilitzar una vegada.
 
 
  **Recomanació:** No compartiu els codis de seguretat amb ningú i guardeu-los en un lloc segur i separat del mòbil.
-![Codis de seguretat](media/06.jpg)
+![Codis de seguretat](Img/06.jpg)
 
 
 Figura 6. Generació dels codis de seguretat de reserva.
@@ -226,7 +226,7 @@ Per comprovar que la configuració s'ha realitzat correctament, iniciarem una se
 **Pas 7.** Si el codi és correcte, podrem accedir al nostre compte.
 
 
-![Inici de sessió amb MFA](media/07.jpg)
+![Inici de sessió amb MFA](Img/07.jpg)
 
 
 Figura 7. Inici de sessió amb el segon factor d'autenticació.
